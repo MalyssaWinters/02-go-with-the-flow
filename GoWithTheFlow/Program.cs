@@ -10,6 +10,7 @@ namespace GoWithTheFlow
     {
         static void Main(string[] args)
         {
+            //hello
             Console.WriteLine("Lamp Does Not Work");
             Console.WriteLine("Is your lamp plugged in?");
 
